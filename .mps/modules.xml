@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/MiniDOT.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/Sandbox/Sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/../MiniDOT.sandbox/MiniDOT.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>

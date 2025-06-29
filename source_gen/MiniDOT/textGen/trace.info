@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082485599095:jetbrains.mps.baseLanguage.structure.BlockStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1082113931046:jetbrains.mps.baseLanguage.structure.ContinueStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1144226303539:jetbrains.mps.baseLanguage.structure.ForeachStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123159:jetbrains.mps.baseLanguage.structure.IfStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123165:jetbrains.mps.baseLanguage.structure.InstanceMethodDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123157:jetbrains.mps.baseLanguage.structure.Statement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root>
+    <file name="TextGenAspectDescriptor.java">
+      <unit at="65,0,68,0" name="MiniDOT.textGen.TextGenAspectDescriptor$CONCEPTS" />
+      <unit at="16,0,69,0" name="MiniDOT.textGen.TextGenAspectDescriptor" />
+    </file>
+  </root>
+  <root nodeRef="r:b881cb78-b047-44ef-ba06-8a30249acae7(MiniDOT.textGen)/1688199662681804389">
+    <file name="Attribute_TextGen.java">
+      <node id="1688199662681804389" at="14,54,15,55" concept="6" />
+      <node id="6452036432130196456" at="15,55,16,93" concept="2" />
+      <node id="6452036432130208624" at="16,93,17,20" concept="2" />
+      <node id="6452036432130198283" at="17,20,18,87" concept="2" />
+      <node id="1688199662681804389" at="22,0,23,0" concept="9" trace="attributeId$_319" />
+      <node id="1688199662681804389" at="23,0,24,0" concept="9" trace="value$ltar" />
+      <node id="1688199662681804389" at="13,0,20,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="1688199662681804389" at="14,54,18,87">
+        <var name="tgs" id="1688199662681804389" />
+      </scope>
+      <scope id="1688199662681804389" at="13,0,20,0">
+        <var name="ctx" id="1688199662681804389" />
+      </scope>
+      <unit id="1688199662681804389" at="21,0,25,0" name="MiniDOT.textGen.Attribute_TextGen$LINKS" />
+      <unit id="1688199662681804389" at="12,0,26,0" name="MiniDOT.textGen.Attribute_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="1688199662681804389" at="26,43,27,39" concept="7" />
+      <scope id="1688199662681804389" at="26,43,27,39" />
+    </file>
+  </root>
+  <root nodeRef="r:b881cb78-b047-44ef-ba06-8a30249acae7(MiniDOT.textGen)/1688199662681807251">
+    <file name="AttributeList_TextGen.java">
+      <node id="1688199662681807251" at="15,54,16,55" concept="6" />
+      <node id="6452036432130207916" at="16,55,17,21" concept="2" />
+      <node id="8271659522382609892" at="18,119,19,25" concept="2" />
+      <node id="8271659522382610891" at="20,122,21,25" concept="2" />
+      <node id="6452036432130208130" at="23,7,24,20" concept="2" />
+      <node id="1688199662681807251" at="28,0,29,0" concept="9" trace="attributes$nUR8" />
+      <node id="8271659522382579849" at="19,25,22,7" concept="4" />
+      <node id="8271659522382519938" at="17,21,23,7" concept="2" />
+      <node id="1688199662681807251" at="14,0,26,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="8271659522382579851" at="20,122,21,25" />
+      <scope id="8271659522382546199" at="18,119,22,7" />
+      <scope id="1688199662681807251" at="15,54,24,20">
+        <var name="tgs" id="1688199662681807251" />
+      </scope>
+      <scope id="1688199662681807251" at="14,0,26,0">
+        <var name="ctx" id="1688199662681807251" />
+      </scope>
+      <unit id="1688199662681807251" at="27,0,30,0" name="MiniDOT.textGen.AttributeList_TextGen$LINKS" />
+      <unit id="1688199662681807251" at="13,0,31,0" name="MiniDOT.textGen.AttributeList_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="1688199662681807251" at="28,47,29,43" concept="7" />
+      <scope id="1688199662681807251" at="28,47,29,43" />
+    </file>
+  </root>
+  <root nodeRef="r:b881cb78-b047-44ef-ba06-8a30249acae7(MiniDOT.textGen)/1688199662681809407">
+    <file name="Edge_TextGen.java">
+      <node id="1688199662681809407" at="15,54,16,55" concept="6" />
+      <node id="6452036432130202676" at="16,55,17,90" concept="2" />
+      <node id="8271659522383959998" at="18,97,19,27" concept="2" />
+      <node id="8271659522385711230" at="21,92,22,94" concept="2" />
+      <node id="8271659522385711148" at="23,5,24,0" concept="8" />
+      <node id="1688199662681809407" at="28,0,29,0" concept="9" trace="sourceId$_3Z9" />
+      <node id="1688199662681809407" at="29,0,30,0" concept="9" trace="targetIds$uEEs" />
+      <node id="1688199662681809407" at="30,0,31,0" concept="9" trace="attributes$$WWF" />
+      <node id="8271659522383959998" at="17,90,20,5" concept="3" />
+      <node id="8271659522385711226" at="20,5,23,5" concept="4" />
+      <node id="1688199662681809407" at="14,0,26,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="8271659522383959998" at="18,97,19,27" />
+      <scope id="8271659522385711227" at="21,92,22,94" />
+      <scope id="8271659522383959998" at="17,90,20,5">
+        <var name="item" id="8271659522383959998" />
+      </scope>
+      <scope id="1688199662681809407" at="15,54,24,0">
+        <var name="tgs" id="1688199662681809407" />
+      </scope>
+      <scope id="1688199662681809407" at="14,0,26,0">
+        <var name="ctx" id="1688199662681809407" />
+      </scope>
+      <unit id="1688199662681809407" at="27,0,32,0" name="MiniDOT.textGen.Edge_TextGen$LINKS" />
+      <unit id="1688199662681809407" at="13,0,33,0" name="MiniDOT.textGen.Edge_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="1688199662681809407" at="30,38,31,34" concept="7" />
+      <scope id="1688199662681809407" at="30,38,31,34" />
+    </file>
+  </root>
+  <root nodeRef="r:b881cb78-b047-44ef-ba06-8a30249acae7(MiniDOT.textGen)/1688199662681811056">
+    <file name="EdgeTarget_TextGen.java">
+      <node id="1688199662681811056" at="15,54,16,55" concept="6" />
+      <node id="8271659522385790400" at="16,55,17,20" concept="2" />
+      <node id="8271659522383956715" at="17,20,18,105" concept="2" />
+      <node id="8271659522383958686" at="18,105,19,20" concept="2" />
+      <node id="8271659522383958932" at="19,20,20,90" concept="2" />
+      <node id="1688199662681811056" at="24,0,25,0" concept="9" trace="targetId$5pn5" />
+      <node id="1688199662681811056" at="14,0,22,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="1688199662681811056" at="15,54,20,90">
+        <var name="tgs" id="1688199662681811056" />
+      </scope>
+      <scope id="1688199662681811056" at="14,0,22,0">
+        <var name="ctx" id="1688199662681811056" />
+      </scope>
+      <unit id="1688199662681811056" at="23,0,26,0" name="MiniDOT.textGen.EdgeTarget_TextGen$LINKS" />
+      <unit id="1688199662681811056" at="13,0,27,0" name="MiniDOT.textGen.EdgeTarget_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="1688199662681811056" at="32,44,33,40" concept="7" />
+      <scope id="1688199662681811056" at="32,44,33,40" />
+    </file>
+  </root>
+  <root nodeRef="r:b881cb78-b047-44ef-ba06-8a30249acae7(MiniDOT.textGen)/1688199662681813359">
+    <file name="Graph_TextGen.java">
+      <node id="1688199662681813359" at="19,54,20,55" concept="6" />
+      <node id="2798828366993581968" at="21,83,22,28" concept="2" />
+      <node id="6452036432130451020" at="24,88,25,29" concept="2" />
+      <node id="6452036432130451206" at="26,12,27,27" concept="2" />
+      <node id="8271659522382035507" at="29,143,30,91" concept="2" />
+      <node id="8271659522382037505" at="30,91,31,22" concept="2" />
+      <node id="6452036432130459525" at="32,5,33,20" concept="2" />
+      <node id="2753180570982742141" at="33,20,34,18" concept="2" />
+      <node id="2798828366993498918" at="36,79,37,27" concept="2" />
+      <node id="2798828366993498919" at="37,27,38,27" concept="2" />
+      <node id="8271659522385625377" at="38,27,39,24" concept="2" />
+      <node id="2798828366993424697" at="39,24,40,22" concept="2" />
+      <node id="6452036432130587804" at="42,7,43,20" concept="2" />
+      <node id="8271659522385054987" at="45,55,46,43" concept="7" />
+      <node id="1688199662681813359" at="50,0,51,0" concept="9" trace="strict$nGHZ" />
+      <node id="1688199662681813359" at="51,0,52,0" concept="9" trace="directional$qSEe" />
+      <node id="1688199662681813359" at="52,0,53,0" concept="9" trace="ID$$XTe" />
+      <node id="1688199662681813359" at="56,0,57,0" concept="9" trace="graphId$8Jn8" />
+      <node id="1688199662681813359" at="57,0,58,0" concept="9" trace="stmt$6piV" />
+      <node id="1688199662681813359" at="61,0,62,0" concept="9" trace="SingleLineComment$ZP" />
+      <node id="6452036432130451140" at="26,10,28,5" concept="0" />
+      <node id="2798828366993572290" at="20,55,23,5" concept="4" />
+      <node id="8271659522385054987" at="45,0,48,0" concept="10" trace="isNotEmptyString#(Ljava/lang/String;)Z" />
+      <node id="8271659522382032318" at="28,5,32,5" concept="4" />
+      <node id="6452036432130449176" at="23,5,28,5" concept="4" />
+      <node id="8271659522385618106" at="35,113,41,7" concept="4" />
+      <node id="6452036432130461605" at="34,18,42,7" concept="2" />
+      <node id="1688199662681813359" at="18,0,45,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="2798828366993572292" at="21,83,22,28" />
+      <scope id="6452036432130449178" at="24,88,25,29" />
+      <scope id="6452036432130451141" at="26,12,27,27" />
+      <scope id="8271659522385054987" at="45,55,46,43" />
+      <scope id="8271659522382032320" at="29,143,31,22" />
+      <scope id="8271659522385054987" at="45,0,48,0">
+        <var name="str" id="8271659522385054987" />
+      </scope>
+      <scope id="8271659522385618108" at="36,79,40,22" />
+      <scope id="6452036432130486024" at="35,113,41,7" />
+      <scope id="1688199662681813359" at="19,54,43,20">
+        <var name="tgs" id="1688199662681813359" />
+      </scope>
+      <scope id="1688199662681813359" at="18,0,45,0">
+        <var name="ctx" id="1688199662681813359" />
+      </scope>
+      <unit id="1688199662681813359" at="60,0,63,0" name="MiniDOT.textGen.Graph_TextGen$CONCEPTS" />
+      <unit id="1688199662681813359" at="55,0,59,0" name="MiniDOT.textGen.Graph_TextGen$LINKS" />
+      <unit id="1688199662681813359" at="49,0,54,0" name="MiniDOT.textGen.Graph_TextGen$PROPS" />
+      <unit id="1688199662681813359" at="17,0,64,0" name="MiniDOT.textGen.Graph_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="1688199662681813359" at="34,39,35,35" concept="7" />
+      <node id="1688199662681813359" at="47,56,48,47" concept="6" />
+      <node id="1688199662681813359" at="48,47,49,50" concept="6" />
+      <node id="1688199662681813359" at="49,50,50,105" concept="2" />
+      <node id="1688199662681813359" at="50,105,51,17" concept="1" />
+      <node id="6452036432130036111" at="55,55,56,26" concept="7" />
+      <node id="6452036432130037302" at="58,60,59,17" concept="7" />
+      <node id="6452036432130036736" at="61,51,62,20" concept="7" />
+      <node id="1688199662681813359" at="55,0,58,0" concept="10" trace="getFileName_Graph#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="1688199662681813359" at="58,0,61,0" concept="10" trace="getFileExtension_Graph#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="1688199662681813359" at="61,0,64,0" concept="10" trace="getPath_Graph#(Lorg/jetbrains/mps/openapi/model/SNode;)Ljava/lang/String;" />
+      <node id="1688199662681813359" at="46,58,52,7" concept="4" />
+      <scope id="1688199662681813359" at="34,39,35,35" />
+      <scope id="1688199662681813359" at="55,55,56,26" />
+      <scope id="1688199662681813359" at="58,60,59,17" />
+      <scope id="1688199662681813359" at="61,51,62,20" />
+      <scope id="1688199662681813359" at="55,0,58,0">
+        <var name="node" id="1688199662681813359" />
+      </scope>
+      <scope id="1688199662681813359" at="58,0,61,0">
+        <var name="node" id="1688199662681813359" />
+      </scope>
+      <scope id="1688199662681813359" at="61,0,64,0">
+        <var name="node" id="1688199662681813359" />
+      </scope>
+      <scope id="1688199662681813359" at="47,56,51,17">
+        <var name="ext" id="1688199662681813359" />
+        <var name="fname" id="1688199662681813359" />
+      </scope>
+    </file>
+  </root>
+  <root nodeRef="r:b881cb78-b047-44ef-ba06-8a30249acae7(MiniDOT.textGen)/1688199662681817641">
+    <file name="ID_TextGen.java">
+      <node id="1688199662681817641" at="14,54,15,55" concept="6" />
+      <node id="6452036432130198982" at="15,55,16,84" concept="2" />
+      <node id="1688199662681817641" at="20,0,21,0" concept="9" trace="ID$$XTe" />
+      <node id="1688199662681817641" at="13,0,18,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="1688199662681817641" at="14,54,16,84">
+        <var name="tgs" id="1688199662681817641" />
+      </scope>
+      <scope id="1688199662681817641" at="13,0,18,0">
+        <var name="ctx" id="1688199662681817641" />
+      </scope>
+      <unit id="1688199662681817641" at="19,0,22,0" name="MiniDOT.textGen.ID_TextGen$PROPS" />
+      <unit id="1688199662681817641" at="12,0,23,0" name="MiniDOT.textGen.ID_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="1688199662681817641" at="36,36,37,32" concept="7" />
+      <scope id="1688199662681817641" at="36,36,37,32" />
+    </file>
+  </root>
+  <root nodeRef="r:b881cb78-b047-44ef-ba06-8a30249acae7(MiniDOT.textGen)/1688199662681818798">
+    <file name="Node_TextGen.java">
+      <node id="1688199662681818798" at="14,54,15,55" concept="6" />
+      <node id="6452036432130039354" at="15,55,16,88" concept="2" />
+      <node id="8271659522385707306" at="17,92,18,94" concept="2" />
+      <node id="1688199662681818798" at="23,0,24,0" concept="9" trace="nodeId$_32A" />
+      <node id="1688199662681818798" at="24,0,25,0" concept="9" trace="attributes$$Xbd" />
+      <node id="8271659522385703198" at="16,88,19,5" concept="4" />
+      <node id="1688199662681818798" at="13,0,21,0" concept="5" trace="generateText#(Ljetbrains/mps/text/rt/TextGenContext;)V" />
+      <scope id="8271659522385703200" at="17,92,18,94" />
+      <scope id="1688199662681818798" at="14,54,19,5">
+        <var name="tgs" id="1688199662681818798" />
+      </scope>
+      <scope id="1688199662681818798" at="13,0,21,0">
+        <var name="ctx" id="1688199662681818798" />
+      </scope>
+      <unit id="1688199662681818798" at="22,0,26,0" name="MiniDOT.textGen.Node_TextGen$LINKS" />
+      <unit id="1688199662681818798" at="12,0,27,0" name="MiniDOT.textGen.Node_TextGen" />
+    </file>
+    <file name="TextGenAspectDescriptor.java">
+      <node id="1688199662681818798" at="38,38,39,34" concept="7" />
+      <scope id="1688199662681818798" at="38,38,39,34" />
+    </file>
+  </root>
+</debug-info>
+
